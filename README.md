@@ -1,6 +1,6 @@
 # kubernetes-env-setup
 
-Easy setup for a Linux VM to work with Kubernetes.
+Easy setup for a Linux VM(Oracle instance) to work with Kubernetes.
 
 Installs: **Docker**, **kubectl**, **Minikube**, **Helm**
 
